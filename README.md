@@ -1,4 +1,4 @@
-# 🏭 Factory Product Inventory Management System
+# Factory Product Inventory Management System
 
 This repository contains a **Python-based inventory management system** built using Jupyter Notebook.  
 It simulates a factory’s stock database where users can interactively manage products, update quantities, and visualize stock levels.
